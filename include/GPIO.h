@@ -39,7 +39,7 @@ namespace mm {
         public:
 
             /// Necessary!!!!
-            /// Returns true if it succeeds - otherwaise it returns false
+            /// Returns true if it succeeds - otherwise it returns false
             bool init();
 
         virtual ~Board();
